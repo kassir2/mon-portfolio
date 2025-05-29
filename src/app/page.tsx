@@ -15,7 +15,7 @@ export default function Home() {
       </h1>
       <p style={{ fontSize: '1.2rem', color: '#374151', textAlign: 'center', maxWidth: '600px' }}>
          <strong>Kassir TIDJANI</strong> , DATA ANALYST / IA , IOT / GESTION DE PROJET
-          (EN RECHERCHE D'UN CONTRAT D'APPRENTISSAGE POUR EFFECTUER MON MASTER 2 EN GESTION DE PROJET ).
+          (RECHERCHE UN CONTRAT EN APPRENTISSAGE POUR EFFECTUER MON MASTER 2 EN GESTION DE PROJET ).
       </p>
     </main>
   );
