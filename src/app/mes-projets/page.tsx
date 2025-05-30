@@ -7,7 +7,7 @@ const projets = [
     titre: 'Plateforme de Recrutement',
     description: 'Application web pour gérer les candidatures, avec formulaire, tableau de bord recruteur, et gestion multilingue.',
     technologies: ['Next.js', 'Redux', 'Ant Design'],
-    lien: 'https://github-kassir2/frontend-recrutement',
+    lien: 'https://github.com/kassir2/frontend-recrutement.git',
     image: '/recrutement.png', // mets une image dans public/
   },
   {
@@ -26,6 +26,7 @@ const projets = [
     titre: 'Atypikhouse , location abithats',
     description: 'ATYPIKHOUSE est une plateforme numérique innovante dédiée à la location d’hébergements atypiques (yourtes, cabanes, bulles, tiny houses, etc.), conçue pour offrir aux utilisateurs une expérience unique de réservation et de gestion des séjours.',
     technologies: ['Flutter'],
+    lien: 'https://github.com/Yonathane2907/AtypikHouse.git',
     image: '/airbnb.png',
 },
 
