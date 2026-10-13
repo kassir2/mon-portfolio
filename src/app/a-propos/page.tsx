@@ -25,7 +25,7 @@ export default function APropos() {
         }}
       />
       <p style={{ fontSize: '1.2rem', maxWidth: '700px', textAlign: 'center', color: '#374151' }}>
-        Je suis Kassir TIDJANI , étudiant en informatique à l’IMIE de Paris. Passionné par le développement web,l’intelligence artificielle et la gestion de projet , mon objectif est de contribuer à des projets innovants tout en continuant à apprendre.
+        Je suis Kassir TIDJANI , Titulaire d'un Master 2 en Big Data , IA/IOT et en gestion de projet  . Passionné par le développement web,l’intelligence artificielle et la gestion de projet , mon objectif est de contribuer à des projets innovants tout en continuant à apprendre.
         Dans la vie quotidienne, je suis quelqu’un de sociable qui pratique du sport notamment la marche rapide , le football. Cela m’aide non seulement à avoir l’esprit d’équipe , l’endurance et aussi à être très à l’aise au contact des autres.
       </p>
     </main>

@@ -31,7 +31,8 @@ export default function Competences() {
           <li> Python </li>
           <li> HTML / CSS / SASS </li>
           <li> PHP </li>
-
+          <li> POWER BI </li>
+        
         </ul>
 
         <h2 style={{ color: '#1e3a8a', marginTop: '1.5rem' }}>🛠️ Frameworks & Librairies</h2>
@@ -69,6 +70,19 @@ export default function Competences() {
         >
           Télécharger mon CV
         </a>
+
+     🎓 Certifications
+
+✅ Python & Analyse de données
+   LinkedIn Learning
+
+✅ L'essentiel de Power BI
+   Microsoft & LinkedIn Learning
+
+✅ Se préparer au métier d'analyste de données
+   Microsoft & LinkedIn Learning
+
+
       </section>
     </main>
   );
