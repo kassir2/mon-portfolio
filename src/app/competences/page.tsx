@@ -31,7 +31,7 @@ export default function Competences() {
           <li> Python </li>
           <li> HTML / CSS / SASS </li>
           <li> PHP </li>
-          <li> POWER BI </li>
+          <li> Java </li>
         
         </ul>
 
@@ -39,49 +39,32 @@ export default function Competences() {
         <ul>
           <li> React / Next.js </li>
           <li> Redux </li>
+          <li> Laravel </li>
+          <li> Angular </li>
           <li> Ant Design / Tailwind CSS </li>
           <li> Flutter </li>
           <li> WordPress </li>
+           <li> Spring Boot </li>
         </ul>
 
         <h2 style={{ color: '#1e3a8a', marginTop: '1.5rem' }}>📊 Autres Compétences</h2>
         <ul>
           <li> Scrum / Méthodes Agile </li>
+           <li> Cycle en V </li>
           <li> UML / Draw.io </li>
           <li> Git / GitHub </li>
           <li> Notions de CI/CD </li>
           <li> Cascard </li>
         </ul>
 
-        <h2 style={{ color: '#1e3a8a', marginTop: '2rem' }}>📄 Mon CV</h2>
-        <a
-          href="/cv-kassir-tidjani.pdf"
-          download
-          style={{
-            display: 'inline-block',
-            marginTop: '1rem',
-            padding: '0.8rem 1.5rem',
-            backgroundColor: '#1e40af',
-            color: 'white',
-            textDecoration: 'none',
-            borderRadius: '8px',
-            fontWeight: 'bold'
-          }}
-        >
-          Télécharger mon CV
-        </a>
+       <h2 style={{ color: '#1e3a8a', marginTop: '1.5rem' }}>🎓 Certifications</h2>
+        <ul>
+          <li> Python , L'analyse de données (Linkedln Learning) </li>
+          <li> L'essentiel de Power BI (SQL , PowerQuery  , Dax ) </li>
+          <li> Se préparer au métier d'analyste de données (Microsoft et Linkedln) </li>
+        </ul>
 
-     🎓 Certifications
-
-✅ Python & Analyse de données
-   LinkedIn Learning
-
-✅ L'essentiel de Power BI
-   Microsoft & LinkedIn Learning
-
-✅ Se préparer au métier d'analyste de données
-   Microsoft & LinkedIn Learning
-
+    
 
       </section>
     </main>
